@@ -15,3 +15,8 @@ Lab chỉ chạy trên `127.0.0.1`, không gửi gì ra mạng di động thật
 
 Tham chiếu chính: OMA-MMS-ENC-V1_2-20050301-A, WAP-230-WSP-20010705-a, 3GPP TS 23.140 V6.16.0,
 XSD MM7 `REL-6-MM7-1-4`. Mục 8 trong tài liệu ghi kết quả kiểm thử và phần chưa kiểm chứng được.
+
+## Giấy phép
+
+[MIT](LICENSE) — bạn được dùng, sửa và phân phối lại (kể cả thương mại), chỉ cần giữ thông báo bản quyền và giấy phép.
+Các đoạn trích ngắn từ đặc tả 3GPP/OMA/WAP và tên chuẩn thuộc về chủ sở hữu tương ứng.
